@@ -1,0 +1,54 @@
+{
+    "channels": [], 
+    "dms": [], 
+    "users": [
+        {
+            "email": "test@gmail.com", 
+            "handle_str": "testacc", 
+            "name_first": "test", 
+            "name_last": "acc", 
+            "notifications": [], 
+            "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8", 
+            "permission_id": 1, 
+            "removed": false, 
+            "tagged_messages_notified": [], 
+            "u_id": 0
+        }, 
+        {
+            "email": "second@user.com", 
+            "handle_str": "seconduser", 
+            "name_first": "second", 
+            "name_last": "user", 
+            "notifications": [], 
+            "password": "b8c7f0949a6532f21c797a5033692e38ede680611f15d952942e0094d6350147", 
+            "permission_id": 2, 
+            "removed": false, 
+            "tagged_messages_notified": [], 
+            "u_id": 1
+        }, 
+        {
+            "email": "third@user.com", 
+            "handle_str": "testacc1", 
+            "name_first": "test", 
+            "name_last": "acc", 
+            "notifications": [], 
+            "password": "cd3fb37cbf623353dbc9374b67e45c042635ccddcf3dd851ed5d147aa8aaf381", 
+            "permission_id": 2, 
+            "removed": false, 
+            "tagged_messages_notified": [], 
+            "u_id": 2
+        }, 
+        {
+            "email": "fourth@user.com", 
+            "handle_str": "goodbye", 
+            "name_first": "Removed", 
+            "name_last": "user", 
+            "notifications": [], 
+            "password": "811ec0dec598fa644d117cbd0c1c3de5b2d8b39ee0e68895b0d7a3c74248f118", 
+            "permission_id": 2, 
+            "removed": true, 
+            "tagged_messages_notified": [], 
+            "u_id": 3
+        }
+    ]
+}
